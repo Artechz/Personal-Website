@@ -1,0 +1,21 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "Arnau Sanz's personal site",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "keywords": [
+    "js",
+    "css",
+    "html",
+    "web"
+  ],
+  "author": "Arnau Sanz",
+  "license": "ISC"
+}
